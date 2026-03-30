@@ -25,10 +25,10 @@ Email: pawat.pa@kkumail.com
 
 | Category | Work | Link |
 |----------|------|------|
-| Lab | LAB 1 | [View Document](https://docs.google.com/document/d/1FT_wZ6WeCDV5MlEPCinJSZEvEPDs-ntNF8Gt_eHm5UI/edit?usp=sharing) |
-| Lab | LAB 2 | [View Document](https://docs.google.com/document/d/18n95qmyW5_QKc7J47pIzR779M92ajxv-LmiuJoqeS54/edit?usp=sharing) |
-| Lab | LAB 3 | [View Document](https://docs.google.com/document/d/1VCwswkT-Pwc4qFSL5w_3EOvtOpI3RNDdLWhtoUII9Yg/edit?tab=t.0#heading=h.tmp7gif2nc6x) |
-| Lab | LAB 4 | [View Document](https://docs.google.com/document/d/1hNBc_HnEpIDtXhB32e8D4A54Aoc28sRHZjLxWdNIHJU/edit?usp=sharing) |
+| Lab | LAB 1 | [View Document](https://docs.google.com/document/d/1txo5MU2H_3Ach7SVX-nI5B8hMxk-EvgWllv5zufkMy4/edit?usp=sharing) |
+| Lab | LAB 2 | [View Document](https://docs.google.com/document/d/1X46Qe1lmaqh0_Ezx6CDPPGHGnli-DP-JV5aGPtzL3IY/edit?usp=sharing) |
+| Lab | LAB 3 | [View Document](https://docs.google.com/document/d/1WWmi_veANYld7IjAF3M9JgAFXVfe1WxdfPDmf8Ad6wg/edit?usp=sharing) |
+| Lab | LAB 4 | [View Document](https://docs.google.com/document/d/1WWmi_veANYld7IjAF3M9JgAFXVfe1WxdfPDmf8Ad6wg/edit?usp=sharing) |
 | Network | New Network | [View Folder](https://drive.google.com/drive/folders/1BSYRVa3U1uqDkshi9oxseL7MBfKeLe53?usp=sharing) |
 | Topic | Intergalactic Communications | [View Project](https://github.com/kixmbap/Disater-Waining-DEMO) |
 | Group Work | Sprint Alpha + 1 | [View Folder](https://drive.google.com/drive/folders/1RNb3fNuazOp9FIMRaPIueUZsnFSwW3Sx?usp=sharing) |
@@ -39,10 +39,10 @@ Email: pawat.pa@kkumail.com
 
 | Lab | Link |
 |-----|------|
-| LAB 1 | [View Document](https://docs.google.com/document/d/1txo5MU2H_3Ach7SVX-nI5B8hMxk-EvgWllv5zufkMy4/edit?usp=sharing) |
-| LAB 2 | [View Document](https://docs.google.com/document/d/1X46Qe1lmaqh0_Ezx6CDPPGHGnli-DP-JV5aGPtzL3IY/edit?usp=sharing) |
-| LAB 3 | [View Document](https://docs.google.com/document/d/1WWmi_veANYld7IjAF3M9JgAFXVfe1WxdfPDmf8Ad6wg/edit?usp=sharing) |
-| LAB 4 | [View Document](https://docs.google.com/document/d/1WWmi_veANYld7IjAF3M9JgAFXVfe1WxdfPDmf8Ad6wg/edit?usp=sharing) |
+| LAB 1 | [View Document](https://docs.google.com/document/d/1FT_wZ6WeCDV5MlEPCinJSZEvEPDs-ntNF8Gt_eHm5UI/edit?usp=sharing) |
+| LAB 2 | [View Document](https://docs.google.com/document/d/18n95qmyW5_QKc7J47pIzR779M92ajxv-LmiuJoqeS54/edit?usp=sharing) |
+| LAB 3 | [View Document](https://docs.google.com/document/d/1Iiij9YTuf8E50-1FwXo0gkBPpbl28XMZhTkXCbsA_5U/edit?usp=sharing) |
+| LAB 4 | [View Document](https://docs.google.com/document/d/1hNBc_HnEpIDtXhB32e8D4A54Aoc28sRHZjLxWdNIHJU/edit?usp=sharing) |
 | LAB 5 | [View Document](https://docs.google.com/document/d/1j3PRmGb7uys_LVFVVq5y9lBT8ERHIzu6SPgKWh89__Q/edit?tab=t.0#heading=h.xhclgflqfo6y) |
 
 ## Project Code
