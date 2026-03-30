@@ -46,6 +46,10 @@ def start_server():
         conn.close()
 
 if __name__ == "__main__":
+    # เติม peer ทุกตัวลง delivery_table ด้วย prob=1.0
+    for peer in PEER_PORTS:
+        delivery_table.update_probability(peer, 1.0)
+
     # เริ่ม server และ forwarding thread
     server_thread = threading.Thread(target=start_server, daemon=True)
     forward_thread = threading.Thread(target=forward_loop, daemon=True)
