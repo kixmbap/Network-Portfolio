@@ -9,7 +9,7 @@ Email: pawat.pa@kkumail.com
 
 1. Personal Assignment and Lab 5
 2. Personal Portfolio
-3. Personal Labs 4
+3. Personal Labs 1-4
 4. Group Activities
 5. Final Project Artifacts
 6. Checkpoint Exam
