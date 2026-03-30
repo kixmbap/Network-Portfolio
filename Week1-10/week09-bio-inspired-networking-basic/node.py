@@ -50,6 +50,10 @@ def start_server():
         conn.close()
 
 if __name__ == "__main__":
+    # เติม peer ทุกตัวลง pheromone_table ด้วยค่า INITIAL_PHEROMONE
+    for peer in PEER_PORTS:
+        pheromone_table.reinforce(peer, INITIAL_PHEROMONE)
+
     server_thread = threading.Thread(target=start_server, daemon=True)
     forward_thread = threading.Thread(target=forward_loop, daemon=True)
     server_thread.start()
