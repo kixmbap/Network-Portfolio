@@ -8,6 +8,7 @@
 1. แก้ไข config.py (MULTICAST_GROUP, PORT, BUFFER_SIZE, TTL)
 2. เปิด Receiver หลาย Terminal: python receiver.py
 3. เปิด Sender: python sender.py
+<img width="1643" height="583" alt="image" src="https://github.com/user-attachments/assets/51db1b08-4b3e-477d-adb9-362d0181d311" />
 
 ---
 
