@@ -43,6 +43,11 @@ Section: 2
 | LAB 4 | [View Document](https://docs.google.com/document/d/1WWmi_veANYld7IjAF3M9JgAFXVfe1WxdfPDmf8Ad6wg/edit?usp=sharing) |
 | LAB 5 | [View Document](https://docs.google.com/document/d/1j3PRmGb7uys_LVFVVq5y9lBT8ERHIzu6SPgKWh89__Q/edit?tab=t.0#heading=h.xhclgflqfo6y) |
 
+## Project Code
+| Project | Link |
+|-----|------|
+| Disaster Warning System | [Github](https://github.com/kixmbap/Disater-Waining-DEMO) |
+
 ## Certificate
 <img width="872" height="587" alt="image" src="https://github.com/user-attachments/assets/3ce01748-dedf-4c0e-862e-f4a79e012cf9" />
 
@@ -54,4 +59,4 @@ Section: 2
 
 ## หมายเหตุเพิ่มเติม
 - สามารถดูรายละเอียดของแต่ละสัปดาห์ในโฟลเดอร์ `Week1-10` ซึ่งแต่ละสัปดาห์จะมี README แยกของตัวเอง
-- หากต้องการดูรายละเอียดเพิ่มเติม กรุณาเข้าไปที่ README ของแต่ละโฟลเดอร์
+- หากต้องการดูรายละเอียดเพิ่มเติม สามารถเข้าไปที่ README ของแต่ละโฟลเดอร์
