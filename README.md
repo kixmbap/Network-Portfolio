@@ -52,6 +52,7 @@ Email: pawat.pa@kkumail.com
 
 ## Certificate
 <img width="872" height="587" alt="image" src="https://github.com/user-attachments/assets/3ce01748-dedf-4c0e-862e-f4a79e012cf9" />
+<img width="872" height="587" alt="image" src="https://github.com/user-attachments/assets/0adce028-cab5-4570-b954-ead6603efbf7" />
 
 ## Checkpoint Exam
 <img width="1904" height="524" alt="image" src="https://github.com/user-attachments/assets/b04ef2d4-335e-4591-bd22-0c3ca951c967" />
